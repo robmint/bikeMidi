@@ -1,0 +1,6 @@
+<config>
+    <serial>cu.wchusbserial1430</serial>
+    <device0>
+        <midichannel>1</midichannel>
+    </device0>
+</config>
